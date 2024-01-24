@@ -1,3 +1,6 @@
+# This project involves developing a Backgammon AI for an Artificial Intelligence class.
+This project was built from a template provided by https://github.com/aknandi/backgammon . I include all files from this project, including those from the template repository and written reports of my work process, in this repository.
+
 # backgammon
 Python modules to play backgammon (human or computer)
 
